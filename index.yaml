@@ -1,0 +1,5 @@
+indexes:
+- kind: Programming_Language
+  properties:
+  - name: text
+    direction: asc
